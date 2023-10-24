@@ -1,6 +1,6 @@
 name: Feature Request
 description: Suggest a feature or improvement
-labels: ["feature", "needs attention"]
+labels: ["enhancement", "needs attention"]
 body:
   - type: textarea
     attributes:
