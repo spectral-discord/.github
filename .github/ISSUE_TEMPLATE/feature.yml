@@ -1,0 +1,10 @@
+name: Feature Request
+description: Suggest a feature or improvement
+labels: ["feature", "needs attention"]
+body:
+  - type: textarea
+    attributes:
+      label: What's your idea?
+      description: How could this project be better?
+    validations:
+      required: true
